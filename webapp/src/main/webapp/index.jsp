@@ -71,7 +71,14 @@
       <div class="jumbotron">
         <div class="container">
           <h1 class="display-3">Hello, there!</h1>
-          <p>This is a sample demo web page to demo the end-to-end DevOps flow, primarily Continous Integration and Continous Deploy. Tools used - Github, Jenkins, Maven, Tomcat.</p>
+          <p>This is a sample demo web page to demo the end-to-end DevOps flow, primarily Continous Integration, Continous Build and Continous Delivery. Tools used -
+            <ul>
+              <li>Github</li>
+              <li>Jenkins</li>
+              <li>Maven</li>
+              <li>Tomcat</li>
+            </ul>
+          </p>
           <p>
             <a class="btn btn-primary btn-lg" href="#" role="button">More Details &raquo;</a>
           </p>
@@ -82,24 +89,24 @@
         <!-- Example row of columns -->
         <div class="row">
           <div class="col-md-4">
-            <h2>Batches</h2>
-            <p>Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui.
+            <h2>Product</h2>
+            <p>A Product in Laboratory Information system represents a raw material, an intermediate product or a finished product. Product details include information about its suppliers/manufacturers and the test plan for quality measurement.
             </p>
             <p>
               <a class="btn btn-secondary" href="#" role="button">View details &raquo;</a>
             </p>
           </div>
           <div class="col-md-4">
-            <h2>Samples</h2>
-            <p>Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui.
+            <h2>Batches/Lot</h2>
+            <p>A Batch/Lot in Laboratory Information Management system represents a specific quantity of a product that is intended to have uniform quality, within specified limits and is produced using a single manufacturing cycle.
             </p>
             <p>
               <a class="btn btn-secondary" href="#" role="button">View details &raquo;</a>
             </p>
           </div>
           <div class="col-md-4">
-            <h2>Analysis</h2>
-            <p>Donec sed odio dui. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Vestibulum id ligula porta felis euismod semper. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.</p>
+            <h2>Analytical Batch</h2>
+            <p>A Analytical(QC) Batch in Laboratory Information system is a group of Samples, including quality control Samples, which are processed together using the same method, the same lot of reagents, at the same time or in continuous, sequential time periods.</p>
             <p>
               <a class="btn btn-secondary" href="#" role="button">View details &raquo;</a>
             </p>
