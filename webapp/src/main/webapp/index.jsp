@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta name="description" content="">
     <meta name="author" content="Abhishek Kumar">
-    <title>DevOps Demo</title>
+    <title>DevOps Demo App</title>
 
     <link rel="canonical" href="https://getbootstrap.com/docs/4.5/examples/jumbotron/">
     <!-- Bootstrap core CSS -->
