@@ -70,7 +70,7 @@
   <!-- Main jumbotron for a primary marketing message or call to action -->
   <div class="jumbotron">
     <div class="container">
-      <h1 class="display-3">Hello, there!</h1>
+      <h1 class="display-3">Hello, Lab Admin!</h1>
       <p>This is a sample demo web page to demo the end-to-end DevOps flow, primarily Continous Integration and Continous Deploy. Tools used - Github, Jenkins, Maven, Tomcat.</p>
       <p><a class="btn btn-primary btn-lg" href="#" role="button">More Details &raquo;</a></p>
     </div>
